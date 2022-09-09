@@ -10,6 +10,8 @@ public class Element{
 
         key = _key;
 
+
+
     }
 
     public int getkey(){
